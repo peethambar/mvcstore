@@ -1,0 +1,6 @@
+C:\B_Manasvini\Algorithms\DataStructures\Stack\bin\Debug\Stack.exe.config
+C:\B_Manasvini\Algorithms\DataStructures\Stack\bin\Debug\Stack.exe
+C:\B_Manasvini\Algorithms\DataStructures\Stack\bin\Debug\Stack.pdb
+C:\B_Manasvini\Algorithms\DataStructures\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\B_Manasvini\Algorithms\DataStructures\Stack\obj\Debug\Stack.exe
+C:\B_Manasvini\Algorithms\DataStructures\Stack\obj\Debug\Stack.pdb

@@ -1,0 +1,6 @@
+C:\B_Manasvini\Algorithms\DataStructures\TestNet46\bin\Debug\TestNet46.exe.config
+C:\B_Manasvini\Algorithms\DataStructures\TestNet46\bin\Debug\TestNet46.exe
+C:\B_Manasvini\Algorithms\DataStructures\TestNet46\bin\Debug\TestNet46.pdb
+C:\B_Manasvini\Algorithms\DataStructures\TestNet46\obj\Debug\TestNet46.csprojResolveAssemblyReference.cache
+C:\B_Manasvini\Algorithms\DataStructures\TestNet46\obj\Debug\TestNet46.exe
+C:\B_Manasvini\Algorithms\DataStructures\TestNet46\obj\Debug\TestNet46.pdb

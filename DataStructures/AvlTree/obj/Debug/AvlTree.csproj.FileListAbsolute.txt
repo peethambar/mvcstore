@@ -1,0 +1,6 @@
+C:\B_Manasvini\Algorithms\DataStructures\AvlTree\bin\Debug\AvlTree.exe.config
+C:\B_Manasvini\Algorithms\DataStructures\AvlTree\bin\Debug\AvlTree.exe
+C:\B_Manasvini\Algorithms\DataStructures\AvlTree\bin\Debug\AvlTree.pdb
+C:\B_Manasvini\Algorithms\DataStructures\AvlTree\obj\Debug\AvlTree.csprojResolveAssemblyReference.cache
+C:\B_Manasvini\Algorithms\DataStructures\AvlTree\obj\Debug\AvlTree.exe
+C:\B_Manasvini\Algorithms\DataStructures\AvlTree\obj\Debug\AvlTree.pdb

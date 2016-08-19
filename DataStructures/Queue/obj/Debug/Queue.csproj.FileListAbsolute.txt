@@ -1,0 +1,6 @@
+C:\B_Manasvini\Algorithms\DataStructures\Queue\bin\Debug\Queue.exe.config
+C:\B_Manasvini\Algorithms\DataStructures\Queue\bin\Debug\Queue.exe
+C:\B_Manasvini\Algorithms\DataStructures\Queue\bin\Debug\Queue.pdb
+C:\B_Manasvini\Algorithms\DataStructures\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\B_Manasvini\Algorithms\DataStructures\Queue\obj\Debug\Queue.exe
+C:\B_Manasvini\Algorithms\DataStructures\Queue\obj\Debug\Queue.pdb

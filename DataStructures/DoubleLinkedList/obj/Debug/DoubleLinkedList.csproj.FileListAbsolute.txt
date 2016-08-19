@@ -1,0 +1,5 @@
+C:\B_Manasvini\Algorithms\DataStructures\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+C:\B_Manasvini\Algorithms\DataStructures\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+C:\B_Manasvini\Algorithms\DataStructures\DoubleLinkedList\obj\Debug\DoubleLinkedList.csprojResolveAssemblyReference.cache
+C:\B_Manasvini\Algorithms\DataStructures\DoubleLinkedList\obj\Debug\DoubleLinkedList.exe
+C:\B_Manasvini\Algorithms\DataStructures\DoubleLinkedList\obj\Debug\DoubleLinkedList.pdb

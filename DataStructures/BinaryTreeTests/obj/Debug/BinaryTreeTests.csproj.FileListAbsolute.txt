@@ -1,0 +1,7 @@
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTreeTests\bin\Debug\BinaryTreeTests.dll
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTreeTests\bin\Debug\BinaryTreeTests.pdb
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTreeTests\bin\Debug\BinaryTree.exe
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTreeTests\bin\Debug\BinaryTree.pdb
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTreeTests\obj\Debug\BinaryTreeTests.csprojResolveAssemblyReference.cache
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTreeTests\obj\Debug\BinaryTreeTests.dll
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTreeTests\obj\Debug\BinaryTreeTests.pdb

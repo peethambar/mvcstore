@@ -1,0 +1,5 @@
+C:\B_Manasvini\Algorithms\DataStructures\LinkedList\bin\Debug\LinkedList.exe
+C:\B_Manasvini\Algorithms\DataStructures\LinkedList\bin\Debug\LinkedList.pdb
+C:\B_Manasvini\Algorithms\DataStructures\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\B_Manasvini\Algorithms\DataStructures\LinkedList\obj\Debug\LinkedList.exe
+C:\B_Manasvini\Algorithms\DataStructures\LinkedList\obj\Debug\LinkedList.pdb

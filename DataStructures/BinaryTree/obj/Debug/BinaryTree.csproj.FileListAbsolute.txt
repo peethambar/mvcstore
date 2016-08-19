@@ -1,0 +1,6 @@
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTree\bin\Debug\BinaryTree.exe
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTree\obj\Debug\BinaryTree.exe
+C:\B_Manasvini\Algorithms\DataStructures\BinaryTree\obj\Debug\BinaryTree.pdb

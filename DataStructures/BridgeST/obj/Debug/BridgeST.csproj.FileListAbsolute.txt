@@ -1,0 +1,6 @@
+C:\B_Manasvini\Algorithms\DataStructures\BridgeST\bin\Debug\BridgeST.exe.config
+C:\B_Manasvini\Algorithms\DataStructures\BridgeST\bin\Debug\BridgeST.exe
+C:\B_Manasvini\Algorithms\DataStructures\BridgeST\bin\Debug\BridgeST.pdb
+C:\B_Manasvini\Algorithms\DataStructures\BridgeST\obj\Debug\BridgeST.csprojResolveAssemblyReference.cache
+C:\B_Manasvini\Algorithms\DataStructures\BridgeST\obj\Debug\BridgeST.exe
+C:\B_Manasvini\Algorithms\DataStructures\BridgeST\obj\Debug\BridgeST.pdb

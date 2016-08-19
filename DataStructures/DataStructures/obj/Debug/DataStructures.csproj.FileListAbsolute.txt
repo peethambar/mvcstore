@@ -1,0 +1,4 @@
+C:\B_Manasvini\Algorithms\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\B_Manasvini\Algorithms\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\B_Manasvini\Algorithms\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\B_Manasvini\Algorithms\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
