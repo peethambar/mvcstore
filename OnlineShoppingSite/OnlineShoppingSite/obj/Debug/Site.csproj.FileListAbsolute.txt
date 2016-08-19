@@ -1,0 +1,83 @@
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\OnlineShoppingSite.dll.config
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\OnlineShoppingSite.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\OnlineShoppingSite.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\BAL.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\EntityFramework.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Helpers.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Mvc.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Razor.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.Razor.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\Unity.Mvc5.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\ViewModels.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\DAL.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\BAL.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\ViewModels.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\EntityFramework.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Razor.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.Razor.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Helpers.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Mvc.xml
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\bin\DAL.pdb
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\OnlineShoppingSite.dll
+C:\Users\Shailendra Chauhan\Desktop\Code\WeekDays\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\OnlineShoppingSite.pdb
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\OnlineShoppingSite.dll.config
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\OnlineShoppingSite.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\OnlineShoppingSite.pdb
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\BAL.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\EntityFramework.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\EntityFramework.SqlServer.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Helpers.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Mvc.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Razor.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.Deployment.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.Razor.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Unity.Mvc5.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\ViewModels.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\DAL.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\BAL.pdb
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\ViewModels.pdb
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\EntityFramework.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\EntityFramework.SqlServer.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Razor.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.Deployment.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Webpages.Razor.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Helpers.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Mvc.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\DAL.pdb
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\OnlineShoppingSite.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\OnlineShoppingSite.pdb
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Newtonsoft.Json.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Newtonsoft.Json.xml
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Antlr3.Runtime.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Optimization.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\WebGrease.dll
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\Antlr3.Runtime.pdb
+C:\Aditya\dotnettricks\Code\OnlineShoppingSite\OnlineShoppingSite\OnlineShoppingSite\bin\System.Web.Optimization.xml
